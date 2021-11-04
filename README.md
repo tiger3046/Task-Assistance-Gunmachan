@@ -5,11 +5,13 @@
 
 <h3>リポジトリ掲載システムの概要</h3>
 <h4>サーバー内のシステム</h4>
-learning assistance system.py は画像判定及びLINEによる通知を行うメインシステムです。
+KanseiTestglobal.py は画像判定及びLINEによる通知を行うメインシステムです。
 photo_collect.pyは、写真を収集します。learning assistance system.pyが正常に動くかどうかのチェックのために写真を集める際に使用してください。
 oo.pyは写真が15枚に達したときに写真フォルダ内の写真をすべて消去します。machine_learning1.pyは画像の機械学習を行います。
 <h4>Raspbery Pi内のシステム</h4>
-
+serch_mp3.shはRaspberyPiにmp3ファイルが転送されているかどうか判断し、転送されていた場合再生し削除するシステムです。
+Sound_Noutifycation.pyは音声
+camera.shは1分間に一枚画像を撮影します。System_Start.shはシステムを再生する際に音声ファイルを再生するシステムです。
 
 
 <h3>システムの目的</h3>
