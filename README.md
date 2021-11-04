@@ -4,7 +4,6 @@
 グローバルアドレスを導入し、IoT機器として実装が可能なシステムとなっています。
 
 <h3>リポジトリ掲載システムの概要</h3>
-
 <h4>サーバー内のシステム</h4>
 learning assistance system.py は画像判定及びLINEによる通知を行うメインシステムです。
 photo_collect.pyは、写真を収集します。learning assistance system.pyが正常に動くかどうかのチェックのために写真を集める際に使用してください。
