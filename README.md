@@ -2,8 +2,7 @@
 <h3>リポジトリの概要</h3>
 本システムは、Raspberry Pi 及びRaspberry Piカメラを使用し撮影された利用者が学習しているかどうかを判定し、利用者のLINEや音声により通知するIoTシステムです。
 グローバルアドレスを導入し、IoT機器として実装が可能なシステムとなっています。
-<video src="
-https://user-images.githubusercontent.com/81619089/158511409-2ca69511-39c2-4945-9e4a-25a7448460fe.mp4" controls></video>
+<video src="https://user-images.githubusercontent.com/81619089/158511409-2ca69511-39c2-4945-9e4a-25a7448460fe.mp4" controls></video>
 
 
 
